@@ -1,0 +1,11 @@
+-> Steps to Install a C Compiler (We're using Turbo C) :-
+1. Download the Turbo C/C++ Package :
+- Visit https://turbo-c.net/turbo-c-download/
+- Scroll Down and Find the "Download" Button and Click it.
+- After Downloading, you'll get a .zip file. Locate and Download it.
+- Extract the .zip file.
+2. Run the Setup Installer :
+- Look for a setup.exe or install.exe file and open it.
+- Follow the Installation Wizard.
+
+-> Then, The Turbo C is Ready to Run.

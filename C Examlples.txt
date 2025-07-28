@@ -1,0 +1,4 @@
+- C Programming is extensively used in :-
+1. Embedded Systems like Microcontrollers in Automotive Industry.
+2. Operating Systems like Linux Kernel.
+3. Game Development (e.g., Game Engines and High-Performance Components.
